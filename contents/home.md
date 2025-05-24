@@ -1,14 +1,14 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![MaMingZe-maverick](https://img.shields.io/badge/MaMingZe-maverick-github-blue?logo=github)](https://github.com/MaMingZe-maverick)
 
-He is currently working at Tencent Shenzhen, as a Tencent Cloud Network Acceleration Research and Development Engineer.
+Currently working at Tencent Shenzhen, as a Tencent Cloud Network Acceleration Research and Development Engineer.
 
 #### Email
 mmzmmz181[at]163.com
 
 #### Education
-M.Sc., Cybersecurity, Nanyang Technological University, Singapore, 2023.1—2024.7.
+M.Sc., Cybersecurity, Nanyang Technological University, Singapore, 2023.1—2024.7.\
 B.E., Software Engineering, Shandong University, 2018.9—2022.6.
 
 #### Research Interests
