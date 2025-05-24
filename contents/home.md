@@ -1,6 +1,7 @@
 
 
-[![MaMingZe-maverick](https://img.shields.io/badge/MaMingZe-maverick-github-blue?logo=github)](https://github.com/MaMingZe-maverick)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/MaMingZe-maverick)
+
 
 Currently working at Tencent Shenzhen, as a Tencent Cloud Network Acceleration Research and Development Engineer.
 
