@@ -14,18 +14,11 @@ M.Sc., Cybersecurity, Nanyang Technological University, Singapore, 2023.1—2024
 B.E., Software Engineering, Shandong University, China, 2018.9—2022.6.
 
 #### Research Interests
-- System
-- Network  
-- Deep Learning  
+System, Network, Deep Learning  
+- Distributed Training and Inference(Enhancing the scalability and performance...)
+- AI-Driven Security Solutions(Developing robust security solutions...) 
+- Network Large AI Models(Optimizing the deployment...)  
 
-**Distributed Training and Inference**  
-Enhancing the scalability and performance...
-
-**AI-Driven Security Solutions**  
-Developing robust security solutions...
-
-**Network Large AI Models**  
-Optimizing the deployment...
 
 
 #### Work Experience
